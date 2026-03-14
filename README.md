@@ -111,7 +111,7 @@ dataset
 │── Customers.csv
 
 dashboard
-│── Shop_Customer_Dashboard.pbix
+│── Customer Spending Behavior Dashboard.pbix
 
 images
 │── dashboard_preview.png
