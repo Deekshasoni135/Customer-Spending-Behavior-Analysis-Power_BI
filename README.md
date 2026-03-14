@@ -99,7 +99,7 @@ Based on the analysis:
 
 ## Dashboard Preview
 
-
+![image alt](https://github.com/Deekshasoni135/Customer-Spending-Behavior-Analysis-Power_BI/blob/main/Customer%20Spending%20Behavior%20Analysis_SS.png?raw=true)
 
 ---
 
